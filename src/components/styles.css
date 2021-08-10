@@ -1,4 +1,4 @@
-nav {
+.nav {
   background-color: blanchedalmond;
   /* color: white; */
   display: flex;
@@ -9,9 +9,9 @@ nav {
   /* border: 0.5px solid black; */
   /* border-radius: 50px; */
 }
-nav span {
+.nav span {
   margin-right: 10px;
   font-size: larger;
-  font-weight: 500;
+  font-weight: 700;
   color: black;
 }
